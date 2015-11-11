@@ -1,6 +1,6 @@
 {
   "name": "tinydoc-plugin-markdown",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "description": "Markdown documentation generator for tinydoc.",
   "main": "lib/index.js",
   "scripts": {
@@ -29,7 +29,7 @@
 
   "dependencies": {
     "lodash": "",
-    "tinydoc": "3.x"
+    "tinydoc": "4.x"
   },
 
   "devDependencies": {
